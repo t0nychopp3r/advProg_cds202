@@ -1,7 +1,7 @@
 # advProg_cds202
 Advanced Programming module cds_202 FS2022
 
-Project group: Flavio Pfister, Leandro Gregorini und Dennis Bilang.
+Project group: Flavio Pfister, Leandro Gregorini and Dennis Bilang.
 
 ## File Tree
 ### Main
