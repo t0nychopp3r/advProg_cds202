@@ -1,0 +1,33 @@
+.block-container {
+    padding-top: 0.1rem;
+}
+footer {
+    visibility: hidden;
+}
+.css-sygy1k.e1fqkh3o1 {
+    padding-top: 50px;
+}
+
+@media only screen and (max-width: 4320px) {
+    .css-1v0mbdj.etr89bj1 img {
+        width: 100%!important;
+    }
+}
+
+@media only screen and (max-width: 3840px) {
+    .css-1v0mbdj.etr89bj1 img {
+        width: 70% !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .css-1v0mbdj.etr89bj1 img {
+        width: 70% !important;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .css-1v0mbdj.etr89bj1 img {
+        width: 80% !important;
+    }
+}
