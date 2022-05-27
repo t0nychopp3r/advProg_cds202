@@ -179,9 +179,9 @@ elif page == "Scatterplot visualization":  # Page with second visualization
         stimuliData_c = data[data["StimuliName"] == stimuliFilter_c]  # stimuli data for colored map
         stimuliData_b = data[data["StimuliName"] == stimuliFilter_b]  # stimuli data for grayscale map
 
-        alphaValueFilter = st.slider('Alpha value of dots', min_value=0., max_value=1.0,
-                                     step=0.05, value=0.2)  # Filter for alpha value of scatterplot
-        dataScaleFilter = st.slider('Scale FixationDuration from 0 to choosen value', min_value=100, max_value=800,
+        alphaValueFilter = st.slider('Opacity of dots', min_value=0., max_value=1.0,
+                                     step=0.05, value=0.2)  # Filter for alpha value (Opacity) of scatterplot
+        dataScaleFilter = st.slider('Scaling of FixationDuration', min_value=100, max_value=800,
                                      step=100, value=400)  # Filter for scale of fixation duration
         colorFilter = st.selectbox("Color of plots", [c for c in mcolors.CSS4_COLORS.keys()], index=122)  # Filter for color of plots
 
