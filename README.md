@@ -23,6 +23,9 @@ Run following command in console at the root position of the folder:
 streamlit run main.py
 ```
 The dashboard is now running on the localhost and can be accesed at: http://localhost:8501/ (port can be individual)
+## Deployment
+The dashboard got deployed on the streamlit cloud and is available here: [Dashboard](https://share.streamlit.io/t0nychopp3r/advprog_cds202/main/main.py)
 
+More information about streamlit cloud and app deployment: [Deploy an app](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
 ## More information
 More informations for streamlit: [Streamlit](https://docs.streamlit.io/library/get-started/main-concepts)
